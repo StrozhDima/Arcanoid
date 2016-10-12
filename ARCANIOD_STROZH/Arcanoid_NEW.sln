@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Arkanoid_NEW", "1000\1000.vcxproj", "{28096767-9641-434A-80E4-6D6E2675D45A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28096767-9641-434A-80E4-6D6E2675D45A}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{28096767-9641-434A-80E4-6D6E2675D45A}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{28096767-9641-434A-80E4-6D6E2675D45A}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{28096767-9641-434A-80E4-6D6E2675D45A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{28096767-9641-434A-80E4-6D6E2675D45A}.Debug|Win32.Build.0 = Debug|Win32
+		{28096767-9641-434A-80E4-6D6E2675D45A}.Release|Any CPU.ActiveCfg = Release|Win32
+		{28096767-9641-434A-80E4-6D6E2675D45A}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{28096767-9641-434A-80E4-6D6E2675D45A}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{28096767-9641-434A-80E4-6D6E2675D45A}.Release|Win32.ActiveCfg = Release|Win32
+		{28096767-9641-434A-80E4-6D6E2675D45A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

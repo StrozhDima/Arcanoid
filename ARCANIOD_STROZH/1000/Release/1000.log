@@ -1,0 +1,7 @@
+﻿  Ball.cpp
+  Game.cpp
+Game.cpp(106): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода
+  Создание кода завершено
+  1000.vcxproj -> C:\Users\Woods\Documents\Visual Studio 2012\Projects\1000\Release\Arkanoid_NEW.exe

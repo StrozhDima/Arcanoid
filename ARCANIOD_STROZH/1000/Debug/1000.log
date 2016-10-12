@@ -1,0 +1,3 @@
+﻿  Game.cpp
+c:\users\woods\documents\visual studio 2012\projects\1000\1000\game.cpp(105): warning C4018: <: несоответствие типов со знаком и без знака
+  1000.vcxproj -> C:\Users\Woods\Documents\Visual Studio 2012\Projects\1000\Debug\Arkanoid_NEW.exe
